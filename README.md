@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JLonzo707
-- 👀 I’m interested in ... Basketball, traveling, gaming, coding and much more.
+- 👀 I’m interested in ... Basketball, soccer, traveling, gaming, coding and much more.
 - 🌱 I’m currently learning ... Python and how to better use GitHub.
-- 💞️ I’m looking to collaborate on ... Any Python projects I can bring value to!
+- 💞️ I’m looking to collaborate on ... Any Python projects that are related to my interests.
 - 📫 How to reach me ... email me @ alfredoalonzo995@gmail.com or find me on LinkedIn (Jerry Alonzo)
 - 😄 Pronouns: ... He / Him
 - ⚡ Fun fact: ... I was in a WWE TV comercial when I was a kid.
