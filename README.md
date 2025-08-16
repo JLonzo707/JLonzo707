@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JLonzo707
-- 👀 I’m interested in ... Basketball, soccer, traveling, sustainability, PC building, AI, and more.
+- 👀 I’m interested in ... Basketball, soccer, traveling, sustainability, PC building, ethical uses of AI, and more.
 - 🌱 I’m currently learning ... Python and how to better utilize GitHub.
 - 💞️ I’m looking to collaborate on ... Any Python projects that are related to my interests.
 - 📫 How to reach me ... email me @ alfredoalonzo995@gmail.com or find me on LinkedIn (Jerry Alonzo)
