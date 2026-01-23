@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JLonzo707
 - 👀 I’m interested in ... Basketball, soccer, traveling, Magic The Gathering, sustainability, PC building, ethical uses of AI, and more.
-- 🌱 I’m currently learning ... Python, DSA theory, back-end development.
+- 🌱 I’m currently learning ... Python, HTML, CSS, DSA
 - 💞️ I’m looking to collaborate on ... Any Python projects that are related to my interests.
 - 📫 How to reach me ... email me @ alfredoalonzo995@gmail.com or find me on LinkedIn (Jerry Alonzo)
 - 😄 Pronouns: ... He / Him
