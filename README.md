@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JLonzo707
 - 👀 I’m interested in ... Basketball, soccer, traveling, Magic The Gathering, sustainability, PC building, ethical uses of AI, and more.
-- 🌱 I’m currently learning ... Python, HTML, CSS, DSA
-- 💞️ I’m looking to collaborate on ... Any Python projects that are related to my interests.
+- 🌱 I’m currently learning ... Python, Flask, HTML, CSS, DSA, JavaScript
+- 💞️ I’m looking to collaborate on ... Any Python projects that leverage the use of Flask or Django web frameworks.
 - 📫 How to reach me ... email me @ alfredoalonzo995@gmail.com or find me on LinkedIn (Jerry Alonzo)
 - 😄 Pronouns: ... He / Him
 - ⚡ Fun fact: ... I was in a WWE TV commercial when I was a kid.
