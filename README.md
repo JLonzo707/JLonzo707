@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JLonzo707 - computer science student at Oregon State University. 
-- 📫 How to reach me ... email me @ alfredoalonzo995@gmail.com or find me on LinkedIn (Jerry Alonzo)
+- 📫 How to reach me ... email me @ alfredoalonzo995@gmail.com or find me on LinkedIn (Gerardo Alonzo)
 
 
 <!---
